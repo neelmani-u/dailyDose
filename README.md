@@ -1,5 +1,5 @@
 # dailyDose - Dynamic News Aggregator with Category Filtering
-The dailyDose App is a cutting-edge news aggregator that harnesses the capabilities of modern technology to fetch real-time news articles from diverse sources via APIs. Going beyond basic news apps, dailyDose offers users the ability to explore news stories based on categories of their interest, ensuring a tailored and comprehensive news consumption experience.
+The dailyDose App is a cutting-edge news aggregator created with MERN Stack that harnesses the capabilities of modern technology to fetch real-time news articles from diverse sources via APIs. Going beyond basic news apps, dailyDose offers users the ability to explore news stories based on categories of their interest, ensuring a tailored and comprehensive news consumption experience.
 
 # Preview
 ![Preview](dailyDose.jpeg)
